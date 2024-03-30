@@ -1,0 +1,20 @@
+{
+	"name": "LayerBatchRename",
+	"displayName": "Layer Batch Rename",
+	"description": "Rename multiple layers at once",
+	"version": "0.1",
+	"author": {
+		"name": "crm",
+		"url": "https://crm.wyobraz.net/"
+	},
+	"contributors": [],
+	"publisher": "crm",
+	"license": "CC-BY-4.0",
+	"categories": ["Scripts"],
+	"contributes": {
+		"scripts": [{
+				"path": "./rename.lua"
+			}
+		]
+	}
+}
